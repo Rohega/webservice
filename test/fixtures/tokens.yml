@@ -1,0 +1,19 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  id: MyString
+  name: MyString
+  bin: MyString
+  exp_month: MyString
+  exp_year: MyString
+  brand: MyString
+  last4: MyString
+
+two:
+  id: MyString
+  name: MyString
+  bin: MyString
+  exp_month: MyString
+  exp_year: MyString
+  brand: MyString
+  last4: MyString
